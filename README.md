@@ -2,7 +2,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=safaladhikari1&count_private=true&include_all_commits=true&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaladhikari1&layout=compact&hide=ShaderLab,HLSL,HTML,TSQL&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaladhikari1&layout=compact&langs_count=10" />
 </div>
 
 ##
